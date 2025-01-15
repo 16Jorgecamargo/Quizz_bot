@@ -1,0 +1,742 @@
+[
+  {
+    "pergunta": "Qual é o processo em que as plantas liberam oxigênio na atmosfera?",
+    "alternativas": [
+      "Respiração",
+      "Fotossíntese",
+      "Transpiração",
+      "Evaporação"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é o nome do maior osso do corpo humano?",
+    "alternativas": [
+      "Fêmur",
+      "Tíbia",
+      "Úmero",
+      "Esterno"
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "Qual é o principal gás responsável pelo efeito estufa?",
+    "alternativas": [
+      "Dióxido de carbono",
+      "Oxigênio",
+      "Nitrogênio",
+      "Metano"
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "Qual é o principal componente do ar que respiramos?",
+    "alternativas": [
+      "Oxigênio",
+      "Dióxido de carbono",
+      "Nitrogênio",
+      "Hidrogênio"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é a unidade básica da composição dos seres vivos?",
+    "alternativas": [
+      "Tecido",
+      "Órgão",
+      "Célula",
+      "Átomo"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "O que é biodiversidade?",
+    "alternativas": [
+      "Número de animais em extinção",
+      "Variedade de espécies na Terra",
+      "Número de florestas no mundo",
+      "Quantidade de plantas em uma região"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é o planeta conhecido como planeta vermelho?",
+    "alternativas": [
+      "Vênus",
+      "Júpiter",
+      "Marte",
+      "Saturno"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é o nome do processo que transforma água em vapor?",
+    "alternativas": [
+      "Evaporação",
+      "Condensação",
+      "Precipitação",
+      "Sublimação"
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "Qual é o tipo de energia produzido pelo Sol?",
+    "alternativas": [
+      "Nuclear",
+      "Química",
+      "Elétrica",
+      "Luminosidade e calor"
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "pergunta": "Qual parte do olho humano é responsável por regular a entrada de luz?",
+    "alternativas": [
+      "Retina",
+      "Córnea",
+      "Íris",
+      "Pupila"
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "pergunta": "Qual é o processo em que as plantas liberam oxigênio na atmosfera?",
+    "alternativas": [
+      "Respiração",
+      "Fotossíntese",
+      "Transpiração",
+      "Evaporação"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é o nome do maior osso do corpo humano?",
+    "alternativas": [
+      "Fêmur",
+      "Tíbia",
+      "Úmero",
+      "Esterno"
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "Qual é o principal gás responsável pelo efeito estufa?",
+    "alternativas": [
+      "Dióxido de carbono",
+      "Oxigênio",
+      "Nitrogênio",
+      "Metano"
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "Qual é o principal componente do ar que respiramos?",
+    "alternativas": [
+      "Oxigênio",
+      "Dióxido de carbono",
+      "Nitrogênio",
+      "Hidrogênio"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é a unidade básica da composição dos seres vivos?",
+    "alternativas": [
+      "Tecido",
+      "Órgão",
+      "Célula",
+      "Átomo"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "O que é biodiversidade?",
+    "alternativas": [
+      "Número de animais em extinção",
+      "Variedade de espécies na Terra",
+      "Número de florestas no mundo",
+      "Quantidade de plantas em uma região"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é o planeta conhecido como planeta vermelho?",
+    "alternativas": [
+      "Vênus",
+      "Júpiter",
+      "Marte",
+      "Saturno"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é o nome do processo que transforma água em vapor?",
+    "alternativas": [
+      "Evaporação",
+      "Condensação",
+      "Precipitação",
+      "Sublimação"
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "Qual é o tipo de energia produzido pelo Sol?",
+    "alternativas": [
+      "Nuclear",
+      "Química",
+      "Elétrica",
+      "Luminosidade e calor"
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "pergunta": "Qual parte do olho humano é responsável por regular a entrada de luz?",
+    "alternativas": [
+      "Retina",
+      "Córnea",
+      "Íris",
+      "Pupila"
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "pergunta": "Qual é o nome do pigmento responsável pela coloração verde das plantas?",
+    "alternativas": [
+      "Melanina",
+      "Clorofila",
+      "Caroteno",
+      "Xantofila"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é a camada da Terra onde ocorrem os terremotos?",
+    "alternativas": [
+      "Manto",
+      "Crosta",
+      "Núcleo",
+      "Astenosfera"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é a fonte de energia dos ventos?",
+    "alternativas": [
+      "Marés",
+      "Movimento da Terra",
+      "Radiação solar",
+      "Atividade vulcânica"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é o nome da estrutura celular responsável pela síntese de proteínas?",
+    "alternativas": [
+      "Ribossomos",
+      "Mitocôndrias",
+      "Núcleo",
+      "Lisossomos"
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "Qual planeta do sistema solar possui anéis visíveis?",
+    "alternativas": [
+      "Júpiter",
+      "Saturno",
+      "Urano",
+      "Netuno"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Como são chamados os organismos que produzem seu próprio alimento?",
+    "alternativas": [
+      "Consumidores",
+      "Produtores",
+      "Decompositores",
+      "Parasitas"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é a forma da órbita dos planetas ao redor do Sol?",
+    "alternativas": [
+      "Circular",
+      "Elíptica",
+      "Espiral",
+      "Retangular"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "O que é um eclipse solar?",
+    "alternativas": [
+      "Quando a Lua passa atrás da Terra",
+      "Quando a Terra bloqueia a luz do Sol",
+      "Quando a Lua bloqueia a luz do Sol",
+      "Quando o Sol fica coberto por nuvens"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual gás é liberado durante a respiração das plantas à noite?",
+    "alternativas": [
+      "Oxigênio",
+      "Nitrogênio",
+      "Dióxido de carbono",
+      "Hidrogênio"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é a parte da célula que armazena material genético?",
+    "alternativas": [
+      "Citoplasma",
+      "Núcleo",
+      "Ribossomo",
+      "Mitocôndria"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é o nome do processo em que as plantas perdem água para o ambiente?",
+    "alternativas": [
+      "Evaporação",
+      "Transpiração",
+      "Condensação",
+      "Respiração"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "O que acontece durante a fotossíntese?",
+    "alternativas": [
+      "Produção de energia a partir de luz",
+      "Consumo de energia",
+      "Produção de oxigênio e glicose",
+      "Produção de dióxido de carbono e água"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é o principal componente das unhas?",
+    "alternativas": [
+      "Colágeno",
+      "Queratina",
+      "Proteína",
+      "Fósforo"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é a camada protetora da Terra que bloqueia os raios UV?",
+    "alternativas": [
+      "Camada de ozônio",
+      "Troposfera",
+      "Estratosfera",
+      "Atmosfera"
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "O que são seres decompositores?",
+    "alternativas": [
+      "Produzem seu próprio alimento",
+      "Transformam matéria orgânica em inorgânica",
+      "Alimentam-se de outros organismos",
+      "Produzem energia a partir de luz"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual órgão humano é responsável pela filtração do sangue?",
+    "alternativas": [
+      "Pulmão",
+      "Coração",
+      "Fígado",
+      "Rim"
+    ],
+    "respostaCorreta": 3
+  },
+  {
+    "pergunta": "Qual grupo de animais é caracterizado por ter penas?",
+    "alternativas": [
+      "Mamíferos",
+      "Anfíbios",
+      "Aves",
+      "Répteis"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Como são chamadas as rochas formadas por magma solidificado?",
+    "alternativas": [
+      "Sedimentares",
+      "Metamórficas",
+      "Ígneas",
+      "Cristalinas"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é a substância química responsável pela sensação de felicidade no cérebro?",
+    "alternativas": [
+      "Dopamina",
+      "Adrenalina",
+      "Serotonina",
+      "Cortisol"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é o nome do processo de divisão celular que resulta em duas células idênticas?",
+    "alternativas": [
+      "Meiose",
+      "Mitose",
+      "Fissão binária",
+      "Reprodução"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "O que é um ecossistema?",
+    "alternativas": [
+      "Conjunto de todas as plantas em um local",
+      "Conjunto de todos os organismos vivos em um local",
+      "Interação entre organismos vivos e o ambiente",
+      "Conjunto de rios e florestas"
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é a principal função dos glóbulos vermelhos no sangue?",
+    "alternativas": [
+      "Transportar oxigênio",
+      "Produzir energia",
+      "Defender contra infecções",
+      "Coagular o sangue"
+    ],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "Como os anfíbios respiram?",
+    "alternativas": [
+      "Somente por pulmões",
+      "Por pele e pulmões",
+      "Somente por brânquias",
+      "Somente por pele"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual elemento químico é essencial para a formação de ossos?",
+    "alternativas": [
+      "Ferro",
+      "Cálcio",
+      "Sódio",
+      "Magnésio"
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é o principal papel das mitocôndrias nas células?",
+    "alternativas": ["Produção de energia", "Digestão celular", "Armazenamento de água", "Síntese de proteínas"],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "Como se chama o processo de transformação do girino em sapo?",
+    "alternativas": ["Metamorfose", "Mutação", "Evolução", "Reprodução"],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "Qual é o maior órgão do corpo humano?",
+    "alternativas": ["Fígado", "Pele", "Intestino", "Pulmão"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "O que são os cromossomos?",
+    "alternativas": ["Células do sangue", "Estruturas que contêm DNA", "Tipos de vírus", "Bactérias do corpo"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual vitamina é produzida pelo corpo com ajuda da luz solar?",
+    "alternativas": ["Vitamina A", "Vitamina C", "Vitamina D", "Vitamina E"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "O que é a fotossíntese?",
+    "alternativas": ["Processo de respiração", "Produção de energia solar", "Processo de produção de alimento pelas plantas", "Reprodução das plantas"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é a função principal dos rins?",
+    "alternativas": ["Filtrar o sangue", "Produzir hormônios", "Digerir alimentos", "Armazenar vitaminas"],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "O que são as hemácias?",
+    "alternativas": ["Glóbulos brancos", "Glóbulos vermelhos", "Plaquetas", "Anticorpos"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é o gás mais abundante na atmosfera terrestre?",
+    "alternativas": ["Oxigênio", "Gás carbônico", "Nitrogênio", "Hélio"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "O que é um ecossistema?",
+    "alternativas": ["Uma espécie de planta", "Um tipo de animal", "Conjunto de seres vivos e ambiente", "Um tipo de clima"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é a função das artérias no corpo humano?",
+    "alternativas": ["Transportar sangue do coração", "Filtrar o sangue", "Produzir sangue", "Armazenar sangue"],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "O que é a cadeia alimentar?",
+    "alternativas": ["Tipo de digestão", "Sequência de quem come quem", "Lista de alimentos", "Grupo de presas"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é o menor osso do corpo humano?",
+    "alternativas": ["Martelo", "Bigorna", "Estribo", "Yunque"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "O que são os neurônios?",
+    "alternativas": ["Células musculares", "Células ósseas", "Células nervosas", "Células sanguíneas"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é a função do sistema digestório?",
+    "alternativas": ["Transportar oxigênio", "Processar alimentos", "Filtrar sangue", "Movimentar o corpo"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "O que é um ser heterotrófico?",
+    "alternativas": ["Produz próprio alimento", "Não produz próprio alimento", "Não precisa se alimentar", "Se alimenta de luz"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é a função das plaquetas no sangue?",
+    "alternativas": ["Coagulação", "Transporte de oxigênio", "Defesa do organismo", "Produção de hormônios"],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "O que é a membrana celular?",
+    "alternativas": ["Núcleo da célula", "Parede que protege a célula", "Centro de energia", "DNA da célula"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é o maior planeta do Sistema Solar?",
+    "alternativas": ["Saturno", "Marte", "Júpiter", "Urano"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "O que são as bactérias?",
+    "alternativas": ["Vírus", "Fungos", "Protozoários", "Microrganismos unicelulares"],
+    "respostaCorreta": 3
+  },
+  {
+    "pergunta": "Qual é o processo de transformação do líquido em vapor?",
+    "alternativas": ["Fusão", "Solidificação", "Evaporação", "Condensação"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é o órgão responsável pela produção da insulina?",
+    "alternativas": ["Fígado", "Pâncreas", "Estômago", "Intestino"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Como se chama o processo de divisão celular?",
+    "alternativas": ["Mitose", "Meiose", "Ambos", "Nenhum"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é o maior músculo do corpo humano?",
+    "alternativas": ["Bíceps", "Quadríceps", "Glúteo máximo", "Gastrocnêmio"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "O que são os vírus?",
+    "alternativas": ["Bactérias", "Fungos", "Parasitas intracelulares", "Protozoários"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é a função principal do sistema respiratório?",
+    "alternativas": ["Digestão", "Troca gasosa", "Circulação", "Excreção"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Como se chama a célula reprodutora masculina?",
+    "alternativas": ["Óvulo", "Zigoto", "Espermatozoide", "Embrião"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é o maior órgão interno do corpo humano?",
+    "alternativas": ["Fígado", "Intestino", "Pulmão", "Coração"],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "O que é osmose?",
+    "alternativas": ["Digestão de proteínas", "Passagem de água", "Respiração celular", "Síntese de glicose"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é a função do sistema esquelético?",
+    "alternativas": ["Apenas suporte", "Proteção e movimento", "Apenas movimento", "Apenas proteção"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Como se chama o processo de quebra da glicose?",
+    "alternativas": ["Fotossíntese", "Respiração", "Glicólise", "Fermentação"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é a unidade funcional dos rins?",
+    "alternativas": ["Alvéolo", "Néfron", "Neurônio", "Hepatócito"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "O que é homeostase?",
+    "alternativas": ["Doença", "Equilíbrio interno", "Tipo de reprodução", "Digestão"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é a função das valvas cardíacas?",
+    "alternativas": ["Bombear sangue", "Impedir refluxo", "Produzir sangue", "Filtrar sangue"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "O que é um organismo autótrofo?",
+    "alternativas": ["Come outros", "Produz alimento", "Não come", "Come plantas"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é a função do cerebelo?",
+    "alternativas": ["Memória", "Equilíbrio", "Fala", "Visão"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "O que é a meiose?",
+    "alternativas": ["Morte celular", "Reprodução", "Divisão reducional", "Crescimento"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é a função da hemoglobina?",
+    "alternativas": ["Transportar O2", "Coagulação", "Defesa", "Digestão"],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "O que é um gene?",
+    "alternativas": ["Proteína", "Célula", "Unidade hereditária", "Hormônio"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é a função do sistema linfático?",
+    "alternativas": ["Digestão", "Defesa", "Respiração", "Reprodução"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é o processo de obtenção de energia pelas células?",
+    "alternativas": ["Fotossíntese", "Respiração celular", "Digestão", "Excreção"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Como se chama o tecido que reveste os órgãos?",
+    "alternativas": ["Muscular", "Nervoso", "Epitelial", "Conjuntivo"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é a função do DNA?",
+    "alternativas": ["Produzir energia", "Armazenar informação genética", "Digerir alimentos", "Transportar oxigênio"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "O que são os leucócitos?",
+    "alternativas": ["Células de defesa", "Células musculares", "Células nervosas", "Células ósseas"],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "Qual é a função principal do coração?",
+    "alternativas": ["Produzir sangue", "Bombear sangue", "Filtrar sangue", "Armazenar sangue"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "O que é simbiose?",
+    "alternativas": ["Tipo de doença", "Associação entre seres", "Reprodução", "Digestão"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é o maior nervo do corpo humano?",
+    "alternativas": ["Óptico", "Vago", "Ciático", "Facial"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "O que são as enzimas?",
+    "alternativas": ["Hormônios", "Catalisadores biológicos", "Vitaminas", "Minerais"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é a função do sistema endócrino?",
+    "alternativas": ["Digestão", "Produção de hormônios", "Respiração", "Circulação"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "O que é um ecótono?",
+    "alternativas": ["Tipo de planta", "Transição entre ecossistemas", "Animal em extinção", "Doença"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é a função da medula óssea?",
+    "alternativas": ["Produzir células sanguíneas", "Filtrar sangue", "Armazenar cálcio", "Produzir hormônios"],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "O que é um organismo transgênico?",
+    "alternativas": ["Clone", "Geneticamente modificado", "Mutante natural", "Híbrido"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é a função do sistema urinário?",
+    "alternativas": ["Digestão", "Respiração", "Excreção", "Reprodução"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "O que é meiose?",
+    "alternativas": ["Divisão celular comum", "Morte celular", "Divisão das células sexuais", "Reprodução assexuada"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "Qual é a função das proteínas?",
+    "alternativas": ["Apenas energia", "Construção e reparo", "Apenas transporte", "Apenas defesa"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "O que é biodiversidade?",
+    "alternativas": ["Tipo de ambiente", "Variedade de vida", "Espécie em extinção", "Tipo de evolução"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é a função do sistema nervoso?",
+    "alternativas": ["Coordenação e controle", "Apenas movimento", "Apenas sensações", "Apenas reflexos"],
+    "respostaCorreta": 0
+  },
+  {
+    "pergunta": "O que é um fóssil?",
+    "alternativas": ["Rocha antiga", "Resto ou vestígio preservado", "Minério", "Animal extinto"],
+    "respostaCorreta": 1
+  },
+  {
+    "pergunta": "Qual é a função do núcleo celular?",
+    "alternativas": ["Energia", "Proteção", "Controle celular", "Digestão"],
+    "respostaCorreta": 2
+  },
+  {
+    "pergunta": "O que é mutação genética?",
+    "alternativas": ["Reprodução", "Alteração no DNA", "Divisão celular", "Evolução"],
+    "respostaCorreta": 1
+  }
+]

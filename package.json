@@ -1,0 +1,18 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "Bot feito para uma atividade com alunos do ensino medio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jorge camargo",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "mysql2": "^3.12.0",
+    "puppeteer": "^24.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "github:alechkos/whatsapp-web.js#fix-open-chat-window-at"
+  }
+}
