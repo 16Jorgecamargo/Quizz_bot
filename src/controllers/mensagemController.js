@@ -6,15 +6,13 @@ exports.processarMensagem = async (client, mensagem) => {
   const msg = mensagem.body.toLowerCase();
   const chat = await mensagem.getChat();
   const cadastroCompleto = await cadastroController.verificarCadastro(numero);
-  
-  // Log message
+  const [horas, minutos, segundos] = [new Date().getHours(), new Date().getMinutes(), new Date().getSeconds()];
   if (!mensagem.fromMe) {
-    console.log('Mensagem recebida: [', mensagem.body + " ] de:", mensagem.from);
+    console.log(`[${horas}:${minutos}:${segundos}] `+'Mensagem recebida: [', mensagem.body + " ] de:", mensagem.from);
   } else {
-    console.log('Mensagem enviada: [', mensagem.body + " ] para:", mensagem.to);
+    console.log(`[${horas}:${minutos}:${segundos}] `+'Mensagem enviada: [', mensagem.body + " ] para:", mensagem.to);
   }
 
-  // Process correct answer
   if (mensagem.fromMe && msg === '✅ resposta correta! parabéns!') {
     await chat.clearMessages();
     await new Promise(resolve => setTimeout(resolve, 2000));
@@ -22,13 +20,11 @@ exports.processarMensagem = async (client, mensagem) => {
     return;
   }
 
-  // Process commands for registered users
   if (!mensagem.fromMe && cadastroCompleto) {
     await this.processarComando(client, mensagem, msg, chat);
     return;
   }
 
-  // Process registration for new users
   if (!cadastroCompleto && !mensagem.fromMe) {
     await cadastroController.iniciarCadastro(numero, mensagem);
   }

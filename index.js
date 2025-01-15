@@ -4,8 +4,9 @@ const quizController = require('./src/controllers/quizController');
 
 // Listener para mensagens recebidas
 client.on('message_create', async (mensagem) => {
-  /*const adm = ["554592xxxxx2@c.us", "551194xxxxxx@c.us"]; // Números que deseja que tenham acesso ao bot
-  if (!adm.includes(mensagem.from)) return;  */
+  if(mensagem.from === "status@broadcast") return;
+  const adm = ["5545xxxxx0382@c.us", "55xxx9336916@c.us", "5545xxxxx0337@c.us"]; // Números que deseja que tenham acesso ao bot
+  if (!adm.includes(mensagem.from)) return; 
   await mensagemController.processarMensagem(client, mensagem);
 });
 
@@ -13,5 +14,4 @@ client.on('message_create', async (mensagem) => {
 client.on('vote_update', async (vote) => {
   await quizController.processarVoto(client, vote);
 });
-
 
